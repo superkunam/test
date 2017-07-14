@@ -14,10 +14,7 @@ Join our public Mafia server if you want to try out the bot: http://discord.me/m
 
 ## Install
 
-Download [node.js](https://nodejs.org) version **v7.0.0 or higher**, then go to MafiaBot folder and:  
-```sh
-$ npm install
-```
+**Currently you cannot install this bot on your server, please don't come to me asking for help about it!**
 
 ## Config
 
